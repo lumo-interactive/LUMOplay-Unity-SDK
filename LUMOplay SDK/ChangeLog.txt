@@ -1,5 +1,8 @@
 LUMOplay Unity SDK
 
+Version 1.0.1 - Release
+	- Fixed bug in communication with the LUMOplay software that would sometimes send the ready signal too early causing the game-switch overlay to be removed too soon
+
 Version 1.0.0 - Release
 	- OnMotionUI fix implemented to correctly convert UI space to screen pixel space
 
